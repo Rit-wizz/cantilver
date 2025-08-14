@@ -103,4 +103,4 @@ This project is open-source and available for learning and demonstration purpose
 
 ## 👤 Author
 
-* **[Your Name]** - Feel free to add your GitHub, LinkedIn, or Portfolio link here!
+* **[Ritwick]** - Feel free to add your GitHub, LinkedIn, or Portfolio link here!
