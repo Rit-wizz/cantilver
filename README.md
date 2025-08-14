@@ -100,7 +100,3 @@ Cantilever/
 This project is open-source and available for learning and demonstration purposes.
 
 ---
-
-## 👤 Author
-
-* **[Ritwick]** - Feel free to add your GitHub, LinkedIn, or Portfolio link here!
